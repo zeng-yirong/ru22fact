@@ -1,6 +1,0 @@
-yanlış	false
-doğru	true
-karma	mix
-sonuçlandırılamadı	not sure
-yanliş	false
-true	true

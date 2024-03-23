@@ -1,5 +1,0 @@
-helt feil	false
-helt sant	true
-ikke sikkert	not sure
-delvis feil	partly false
-delvis sant	partly true

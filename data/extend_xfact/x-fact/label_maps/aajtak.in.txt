@@ -1,3 +1,0 @@
-false	false
-mostly false	mostly false
-half true	half true

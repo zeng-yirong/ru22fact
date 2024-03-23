@@ -1,3 +1,0 @@
-falsch	false
-halbrichtig	half true
-richtig	true

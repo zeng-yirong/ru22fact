@@ -1,7 +1,0 @@
-fake	fake
-misleading	misleading
-true	true
-mix	mix
-sarcasm	other/sarcasm
-cinema news , twitter	other/cinema
-partially true	partially true
